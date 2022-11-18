@@ -1,0 +1,29 @@
+---
+title: "Kari Norman"
+about:
+  template: trestles
+  image: headshot2021.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/drkarinorman
+    - icon: github
+      text: Github
+      href: https://github.com/karinorman
+---
+
+I am a quantitative ecologist interested in the theory and methods underpinning biodiversity science. I synthesize existing ecological datasets to better understand broad-scale impacts of anthropogenic change through time.
+
+## Education
+
+**University of California, Berkeley** \| Berkeley, CA
+
+PhD in Environmental Science, Policy, and Management \| Dec 2021
+
+**Utah State University** \| Logan, UT
+
+B.S. in Conservation and Restoration Ecology \| May 2016
+
+**Utah State University** \| Logan, UT
+
+B.S. in Statistics \| May 2016

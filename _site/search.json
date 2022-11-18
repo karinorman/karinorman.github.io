@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kari Norman",
+    "section": "",
+    "text": "I am a quantitative ecologist interested in the theory and methods underpinning biodiversity science. I synthesize existing ecological datasets to better understand broad-scale impacts of anthropogenic change through time."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kari Norman",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Berkeley | Berkeley, CA\nPhD in Environmental Science, Policy, and Management | Dec 2021\nUtah State University | Logan, UT\nB.S. in Conservation and Restoration Ecology | May 2016\nUtah State University | Logan, UT\nB.S. in Statistics | May 2016"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Kari Norman",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
