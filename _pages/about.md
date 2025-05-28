@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://research.fs.usda.gov/rmrs/programs/wildlife-ecology'>Rocky Mountain Research Station</a>, <a href='https://www.firescenter.org/about.html'>University of New Mexico, Center for Fire Resilient Ecosystems & Society</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rocky Mountain Research Station</p>
     <p>333 Broadway Blvd SE</p>
     <p>Albuquerque, NM 87102</p>
 
@@ -27,8 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a quantitative ecologist interested in the theory and methods underpinning biodiversity science. I synthesize existing ecological datasets to better understand broad-scale impacts of anthropogenic change through time. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+More to come.
