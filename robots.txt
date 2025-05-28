@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://karinorman.github.io/sitemap.xml
+Sitemap: www.karinorman.org/sitemap.xml
