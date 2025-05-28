@@ -6,13 +6,13 @@
     "email": "kari.norman@usda.gov",
     "phone": "",
     "url": "https://karinorman.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Computationally-minded scientist interested in making sense of past, current, and future biodiversity processes in a changing world.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "333 Broadway Blvd SE",
+      "postalCode": "NM 87102",
+      "city": "Albuquerque",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Mexico"
     },
     "profiles": [
       {
@@ -25,25 +25,32 @@
   "work": [
     {
       "name": "USDA Forest Service Rocky Mountain Research Station",
+      "location": "Albuquerque, New Mexico",
       "position": "Biological Scientist",
       "url": "https://research.fs.usda.gov/rmrs/programs/wildlife-ecology",
       "startDate": "2024-01-07",
       "endDate": "current",
-      "summary": "",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "summary": "Ecological data scientist developing scalable data management solutions and broad-scale impacts of disturbance on biodiversity.",
+      "highlights": ["Monitoring of the Mexican Spotted Owl", "Data Management", "Biogeographic Fire Processes"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "name": "University of Montreal",
+      "location": "Montreal, Canada",
+      "position": "BIOS2 Postdoctoral Fellow",
+      "startDate": "2022-04-01",
+      "endDate": "2023-09-01",
+      "highlights": ["Monitoring network design", "Julia package development"]
+    },
+    {
+      "name": "GEO BON",
+      "location": "Montreal, Canada",
+      "position": "Software Developer",
+      "url": "https://boninabox.geobon.org/",
+      "startDate": "2022-04-01",
+      "endDate": "2023-09-01",
+      "summary": "Developed pipelines for translating species observation data into monitoring networks for the BON in a Box project, including implementing algorithms for site selection.",
+      "highlights": ["BON in a Box", "Monitoring network design implementation"]
+    },
   ],
   "education": [
     {
