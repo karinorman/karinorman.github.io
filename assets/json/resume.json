@@ -34,7 +34,7 @@
       "highlights": ["Monitoring of the Mexican Spotted Owl", "Data Management", "Biogeographic Fire Processes"]
     },
     {
-      "name": "University of Montreal",
+      "name": "University of Montreal, Mentor: Dr. Timothee Poisot",
       "location": "Montreal, Canada",
       "position": "BIOS2 Postdoctoral Fellow",
       "startDate": "2022-04-01",
@@ -50,28 +50,42 @@
       "endDate": "2023-09-01",
       "summary": "Developed pipelines for translating species observation data into monitoring networks for the BON in a Box project, including implementing algorithms for site selection.",
       "highlights": ["BON in a Box", "Monitoring network design implementation"]
-    },
+    }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of California Berkeley",
+      "location": "Berkeley, California",
+      "url": "https://ourenvironment.berkeley.edu/",
+      "area": "Dissertation: Synthesis approaches to quantifying biodiversity change, tools, and applications",
+      "studyType": "PhD, Environmental Science, Policy, and Management",
+      "startDate": "2016-8-24",
+      "endDate": "2021-12-21",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Advisor: Dr. Carl Boettiger"]
+    },
+    {
+      "institution": "Utah State University",
+      "location": "Logan, Utah",
+      "url": "https://qcnr.usu.edu/wild/",
+      "area": "Thesis: Biodiversity prioritization: A comparison of data types",
+      "studyType": "BS Conservation and Restoration Ecology, BS Statistics",
+      "startDate": "2012-8-16",
+      "endDate": "2016-5-31",
+      "score": "10",
+      "courses": ["Minor in Biomathematics", "Magna cum Laude"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Utah State University College Honors",
+      "date": "2016-05-31",
+      "awarder": "Utah State University"
+    },
+    {
+      "title": "Outstanding Statistics Undergraduate",
+      "date": "2016-05-31",
+      "awarder": "Department of Mathematics and Statistics, Utah State University"
     }
   ],
   "certificates": [
@@ -180,18 +194,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
