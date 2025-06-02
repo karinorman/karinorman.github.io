@@ -1,0 +1,153 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Kari Norman
+    - name: Current Position
+      value: Biological Scientist, USDA Forest Service, Rocky Mountain Research Station
+    - name: Address
+      value: 333 Broadway Blvd SE Albuquerque, NM 87102
+    - name: Email
+      value: kari.norman[at]usda.gov
+    - name: Summary
+      value: Computationally-minded scientist interested in making sense of past, current, and future biodiversity processes in a changing world.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD, Enivronmental Science, Policy and Management
+      institution: University of California, Berkeley
+      year: 2016-2021
+      description:
+        - Dissertation&#58; Synthesis approaches to quantifying biodiversity change, tools, and applications
+        - Advisor&#58; Dr. Carl Boettiger
+    - title: BS Conservation and Restoration Ecology, BS Statistics
+      institution: Utah State University, Logan, UT
+      year: 2012-2016
+      description:
+        - Thesis&#58; Biodiversity prioritization&#58; A comparison of data types
+
+- title: Professional Appointments
+  type: time_table
+  contents:
+    - title: Biological Scientist (Ecological Data Scientist)
+      institution: USDA Forest Service, Rocky Mountain Research Station
+      year: 2023-NOW
+    - title: BIOS2 Postdoctoral Fellow
+      institution: Department of Biological Sciences, University of Montreal
+      year: 2022-2023
+      description:
+        - Mentor&#58; Dr. Timothée Poisot
+    - title: Software Developer
+      institution: Group on Earth Observation Biodiversity Observation Network (GEO BON)
+      year: 2022-2023
+      description:
+        - Developed pipelines for translating species observation data into monitoring networks, including implementing algorithms for site selection.
+
+- title: Software
+  type: time_table
+  contents:
+    - title:  <a href="https://boninabox.geobon.org/">BON in a Box</a>
+      year: 2022-2023
+      description: Tools for monitoring network and Essential Biodiversity Variable (EBV) calculation.
+    - title: <a href="https://github.com/ropensci/taxadb">taxaDB</a>
+      year: 2016-now
+      description: R package for fast, consistent access to taxanomic data providers.
+
+- title: Grants
+  type: time_table
+  contents:
+    - title: BIOS2 Postdoctoral Fellowship for Persistence
+      year: 2022-2023
+      description: Project&#58; Large-scale ecosystem modeling for biodiversity monitoring, $35,000
+    - title: Department of Energy Computational Science Graduate Fellowship #<a href="https://www.krellinst.org/csgf/">Department of Energy Computational Science Graduate Fellowship</a>
+      year: 2017-2021
+      description: Project&#58; Development of multi-taxa joint species distribution models, $150,000
+    - title: National Science Foundation Graduate Fellowship (Deferred)
+      year: 2016
+      description: Project&#58; Development of multi-taxa joint species distribution models $96,000
+    - title: NSF NRT Fellowship, Data Science for the 21st Century
+      year: 2016–2017
+      description: $20,000
+    - title: Undergraduate Research and Creative Opportunities Grant
+      year: 2014
+      description: Project&#58 Climate change impacts on the Uinta Ground Squirrel, $2,000
+    - title: Undergraduate Research Fellowship
+      year: 2012–2016
+      description: $4,000
+    - title: Quinney Scholar Fellowship, Quinney College of Natural Resources, Utah State University
+      year: 2012–2016
+      description: $16,000
+    - title: Utah State University Presidential Scholar
+      year: 2012–2016
+      description: $12,000
+    - title: Regents Scholar
+      year: 2012–2014
+      description: $6,000
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2016
+      items:
+        - Outstanding Statistics Undergraduate, Department of Mathematics and Statistics, Utah State University
+        - Utah State University College Honors, Utah State University
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant (Reproducible and Collaborative Data Science, ESPM 288)
+      year: 2017
+      description: Led weekly lab sessions, developed teaching resources for a class with varied coding background.
+    - title: Python Tutor (Self Employed)
+      year: 2014-2016
+      description: Developed exercises for teaching basic to intermediate Python concepts.
+    - title: Teaching in Environmental Science, Policy, and Management (Training Course)
+      year: 2016
+
+- title: Seminars and Conference Presentations
+  type: time_table
+  contents:
+    - title: Invited Seminars
+      description:
+      - Synthesis approaches to assessing biodiversity change&#58; yesterday and tomorrow’s data, 2023, Department of Biology, University of Montreal
+      - A computational approach to biodiversity change&#58; does function follow richness?, Oakridge National Lab, 2018
+    - title: Invited Symposia
+      description:
+      - Evaluating the evidence of widespread maintenance of functional diversity in vertebrate communities, 2022,
+
+
+
+- title: Research Positions
+  type: time_table
+  contents:
+    - title: Research Fellow
+      institution: Oakridge National Lab
+      year: 2018
+      description:
+        - PI&#58; Dr. Alison Boyer
+        - Synthesized and standardized functional trait databases, developed a cloud-based workflow for calculating functional diversity null models.
+    - title: Botanist
+      institution: USDA Forest Service
+      year: 2016
+      description:
+        - Supervisor&#58; Mike Duncan
+        - Established long-term range land quality monitoring system, completed ground-truthing for development of a state-wide vegetation map.
+    - title: Undergraduate Research Fellow
+      institution: Utah State University
+      year: 2014-2016
+      description:
+        - PI&#58; Dr. Ethan White
+        - Created biodiversity maps of bird species in North America using PostgreSQL and Python programming language, code found at www.github.com/weecology/diversity-conservation.
+    - title: Undergraduate Research Fellow
+      institution: Utah State University
+      year: 2014-2016
+      description:
+        - PI&#58; Dr. Lise Aubry
+        - Performed surveys of Uinta Ground Squirrel populations, assessed demography using Capture-Mark-Recapture Robust Design model in RMark.
+    - title: DAAD Rise Research Intern, University of Göttingen
+      institution: University of Göttingen
+      year: 2014
+      description:
+        - PI&#58; Dr. Lise Aubry
+        - Developed model to predict forest biomass from LiDAR data using mixed effects and nonparametric modeling approaches.
