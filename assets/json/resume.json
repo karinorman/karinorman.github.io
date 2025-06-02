@@ -78,58 +78,59 @@
   ],
   "awards": [
     {
+      "title": "BIOS2 Postdoctoral Fellowship for Persistence",
+      "date": "2022",
+      "awarder": "Project: Large-scale ecosystem modeling for biodiversity monitoring, $35,000"
+    },
+    {
+      "title": "Department of Energy Computational Science Graduate Fellowship",
+      "date": "2017",
+      "awarder": "Project: Development of multi-taxa joint species distribution models, $150,000"
+    },
+    {
+      "title": "National Science Foundation Graduate Fellowship 2016",
+      "date": "2016",
+      "awarder": "Project: Development of multi-taxa joint species distribution models $96,000"
+    },
+    {
+      "title": "NSF NRT Fellowship, Data Science for the 21st Century",
+      "date": "2016",
+      "awarder": "$20,000"
+    },
+    {
       "title": "Utah State University College Honors",
-      "date": "2016-05-31",
+      "date": "2016",
       "awarder": "Utah State University"
     },
     {
       "title": "Outstanding Statistics Undergraduate",
-      "date": "2016-05-31",
+      "date": "2016",
       "awarder": "Department of Mathematics and Statistics, Utah State University"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Undergraduate Research and Creative Opportunities Grant",
+      "date": "2014",
+      "awarder": "Project: Climate change impacts on the Uinta Ground Squirrel, $2,000"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Undergraduate Research Fellowship",
+      "date": "2012",
+      "awarder": "$4,000"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "Quinney Scholar Fellowship",
+      "date": "2012",
+      "awarder": "$16,000"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "title": "Presidential Scholar",
+      "date": "2012",
+      "awarder": "Utah State University, $12,000"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Regents Scholar",
+      "date": "2012",
+      "awarder": "State of Utah, $6,000"
     }
   ],
   "publications": [
