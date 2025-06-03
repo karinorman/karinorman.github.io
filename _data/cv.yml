@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Kari Norman
-    - name: Current Position
-      value: Biological Scientist, USDA Forest Service, Rocky Mountain Research Station
+    - name: Position
+      value: Biological Scientist (Ecological Data Scientist)
+    - name: Institution
+      value: USDA Forest Service, Rocky Mountain Research Station
     - name: Address
       value: 333 Broadway Blvd SE Albuquerque, NM 87102
     - name: Email
@@ -110,13 +112,25 @@
   contents:
     - title: Invited Seminars
       description:
-      - Synthesis approaches to assessing biodiversity change&#58; yesterday and tomorrow’s data, 2023, Department of Biology, University of Montreal
-      - A computational approach to biodiversity change&#58; does function follow richness?, Oakridge National Lab, 2018
+      - “Synthesis approaches to assessing biodiversity change&#58; yesterday and tomorrow’s data”, 2023, Department of Biology, University of Montreal
+      - “A computational approach to biodiversity change&#58; does function follow richness?”, 2018, Oakridge National Lab
     - title: Invited Symposia
       description:
-      - Evaluating the evidence of widespread maintenance of functional diversity in vertebrate communities, 2022,
-
-
+      - “Evaluating the evidence of widespread maintenance of functional diversity in vertebrate communities”, 2022, Unifying Ecology Across Scales Gordon Research Seminar
+      - “A computational approach to biodiversity change”, 2021, Computational Science Graduate Fellowship Program Review
+      - “Ecosystem stability is related to animal diversity dynamics at a continental scale”, 2021, Leveraging FAIR data to discover new connections in ecology Symposium, Ecological Society of America Meeting
+    - title: Contributed Talks
+      description:
+      - KE Norman, P. de Valpine, and C Boettiger, “Evaluating the evidence of widespread maintenance of functional diversity in vertebrate communities”, Ecological Society of America, Montréal, CA, August 2022.
+      - KE Norman and C Boettiger, “Global functional diversity trends, a lens for detecting biodiversity change”, Ecological Society of America, Salt Lake City UT, August 2020.
+      - KE Norman and L Aubry, “Demographic Consequences of Climate Change in a Hibernator, the Uinta Ground Squirrel”, Utah State Student Research Symposium, Utah State University, April 2015.
+      - KE Norman and S Null, “Modeling Streamflow in the Wasatch Mountain Region with Climate Change”, iUtah Cohort Session, Salt Lake City, August 2013.
+    - title: Contributed Posters
+      description:
+      - KE Norman and A Boyer, “Measuring biodiversity change&#58; does function follow richness?”, International Biogeography Society Conference, January 2019.
+      - KE Norman and E White, “Biodiversity Prioritization&#58; A comparison of data types”, Gordon Research Conference&#58; Unifying Ecology Across Scales, University of New England, July 2016.
+      - KE Norman and L Aubry, “Demographic Consequences of Climate Change in the Uinta Ground Squirrel”, Research on Capitol Hill, Salt Lake City, January 2016.
+      - KE Norman and E White, “Biodiversity Prioritization&#58; A comparison of data types”, Ecological Society of America, Baltimore, August 2015.
 
 - title: Research Positions
   type: time_table
@@ -151,3 +165,20 @@
       description:
         - PI&#58; Dr. Lise Aubry
         - Developed model to predict forest biomass from LiDAR data using mixed effects and nonparametric modeling approaches.
+
+- title: Professional Service
+  type: time_table
+  contents:
+  - title: University
+    description:
+    - ESPM Student Grant Review Panel 2017
+    - Vice President, USU Chapter, Society for Range Management, 2015-2016
+    - Wildland Dept. Rep., Natural Resources Student Council, 2013-2016
+    - Founding Member, Ecology Club, 2014
+  - title: Peer Review
+    description: Nature Biodiversity Reviews, Conservation Biology, Plant Diversity, Proceedings of the Royal Society B, ROpenSci Package Review
+  - title: External
+    description:
+    - Awards Committee Co-Chair, Society for Open, Reliable, and Transparent Ecology and Evolutionary, 2022-2023
+    - Beetles and Forecasting Working Groups, National Ecological Observation Network Technical Working Group, 2022-2023
+    - Organizational Committee Chair, Expanding Your Horizons Network, 2016 – 2020
