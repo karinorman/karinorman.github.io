@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://research.fs.usda.gov/rmrs/programs/wildlife-ecology'>Rocky Mountain Research Station</a>, <a href='https://www.firescenter.org/about.html'>University of New Mexico, Center for Fire Resilient Ecosystems & Society</a>
+subtitle:
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a quantitative ecologist interested in the theory and methods underpinning biodiversity science. I synthesize existing ecological datasets to better understand broad-scale impacts of anthropogenic change through time. 
+I am a quantitative ecologist with the <a href='https://research.fs.usda.gov/rmrs/programs/wildlife-ecology'>USDA Forest Service Rocky Mountain Research Station</a> and am an affiliate of the <a href='https://www.firescenter.org/about.html'>University of New Mexico, Center for Fire Resilient Ecosystems & Society</a>. My work looks at how species and ecological communities are responding to global change drivers, with a special focus on how broad-scale syntheses can inform local-scale management action. I address these questions by bridging existing datasets for novel applications, designing software to make synthesis tractable and reproducible, and developing best practices for the collection of future biodiversity data through standardized monitoring approaches. 
 
-
-More to come.
+![usfs](/assets/img/usfs_logo.png){: width="125" }
+![unm](/assets/img/unm_logo.png){: width="200" }
