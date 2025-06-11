@@ -198,6 +198,8 @@ exclude:
   - assets/jupyter/blog.ipynb
   - _pages/teaching
   - _pages/people
+  - books/
+  - news/
 
 keep_files:
   - CNAME
