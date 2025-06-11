@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
+title: BON in a Box
 description: a project with no image
-img:
+img: img: assets/img/3.jpg
 importance: 4
-category: fun
+redirect: https://boninabox.geobon.org/
+category: software
 ---
 
 Every project has a beautiful feature showcase page.

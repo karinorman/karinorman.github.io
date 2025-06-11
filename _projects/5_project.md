@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
+title: taxaDB
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
-category: fun
+redirect: https://docs.ropensci.org/taxadb/
+category: software
 ---
 
 Every project has a beautiful feature showcase page.

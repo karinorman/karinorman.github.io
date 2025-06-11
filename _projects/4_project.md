@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: Wildfire & Biogeography
 description: another without an image
-img:
+img: assets/img/1.jpg
 importance: 3
-category: fun
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

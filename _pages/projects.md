@@ -2,10 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Ongoing research themes and software development.
+img: assets/img/3.jpg
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [research, software]
 horizontal: false
 ---
 
