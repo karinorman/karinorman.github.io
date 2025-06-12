@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Temporal Biodiversity Change
-description: a project with a background image and giscus comments
+description: Measuring change in ecological community structure through time.
 img: assets/img/biodiv_change.jpg
 importance: 2
 category: research
