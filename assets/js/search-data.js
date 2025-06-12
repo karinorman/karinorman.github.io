@@ -54,11 +54,11 @@ ninja.data = [{
         },
       },{id: "projects-biodiversity-monitoring",
           title: 'Biodiversity Monitoring',
-          description: "with background image",
+          description: "Tools for more accessible monitoring program development, implementation, and data use.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-biodiversity-change",
-          title: 'Biodiversity Change',
+            },},{id: "projects-temporal-biodiversity-change",
+          title: 'Temporal Biodiversity Change',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -74,12 +74,12 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-taxadb",
           title: 'taxaDB',
-          description: "a project with a background image",
+          description: "R package for scalable access to taxonomic data providers.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-bon-in-a-box",
+          title: 'BON in a Box',
+          description: "Collaborative code pipelines for calculation of Essential Biodiversity Variables and monitoring network design.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
