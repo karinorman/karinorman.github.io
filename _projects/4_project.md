@@ -2,7 +2,7 @@
 layout: page
 title: Wildfire & Biogeography
 description: another without an image
-img: assets/img/1.jpg
+img: assets/img/fire_richness.png
 importance: 3
 category: research
 ---

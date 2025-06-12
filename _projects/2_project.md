@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Biodiversity Change
+title: Temporal Biodiversity Change
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/biodiv_change.jpg
 importance: 2
 category: research
 giscus_comments: true
