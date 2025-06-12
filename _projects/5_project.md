@@ -1,8 +1,8 @@
 ---
 layout: page
 title: taxaDB
-description: a project with a background image
-img: assets/img/1.jpg
+description: R package for scalable access to taxonomic data providers.
+img: assets/img/taxadb_logo.svg
 importance: 3
 redirect: https://docs.ropensci.org/taxadb/
 category: software

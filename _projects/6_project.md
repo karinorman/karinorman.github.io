@@ -1,8 +1,8 @@
 ---
 layout: page
 title: BON in a Box
-description: a project with no image
-img: img: assets/img/3.jpg
+description: Collaborative code pipelines for calculation of Essential Biodiversity Variables and monitoring network design. 
+img: assets/img/boninabox_logo.jpg
 importance: 4
 redirect: https://boninabox.geobon.org/
 category: software
