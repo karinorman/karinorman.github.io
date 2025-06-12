@@ -59,12 +59,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-temporal-biodiversity-change",
           title: 'Temporal Biodiversity Change',
-          description: "a project with a background image and giscus comments",
+          description: "Measuring change in ecological community structure through time.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+          description: "Wildfire as a biogeographic process shaping patterns of biodiversity.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-wildfire-amp-biogeography",
