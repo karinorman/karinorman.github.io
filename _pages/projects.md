@@ -6,7 +6,7 @@ description: Ongoing research themes and software development.
 img: assets/img/3.jpg
 nav: true
 nav_order: 1
-display_categories: [research, software]
+display_categories: [research themes, software]
 horizontal: false
 ---
 

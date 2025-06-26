@@ -4,78 +4,36 @@ title: Temporal Biodiversity Change
 description: Measuring change in ecological community structure through time.
 img: assets/img/biodiv_change.jpg
 importance: 2
-category: research
-giscus_comments: true
+category: research themes
+related_publications: true
+bibliography: references.bib
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+A major theme of my research is leveraging existing long term monitoring efforts to understand the impact of global change drivers on ecological communities. I approach this question using multiple dimensions of biodiversity, including tradititional species-based metrics like alpha and beta diversity, their functional diversity counterparts that incorporate data on functional traits, and recently reaching into interaction network approaches. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/norman2025_fig.jpeg" title="Norman et. al 2025" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3met_long.jpeg" title="time series models" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Figure depicting the scope of the time series included in Norman et. al 2025 (on the left), with (A) Map of time series locations with points colored by taxa and (B) histograms of time series duration broken down by taxa; and the general trends for different biodiversity metrics derived from those time series (on the right).
 </div>
+
+I analyzed thousands of community time series to assess change in functional structure across taxa, time, and space, which showed that across communities there is no general trend in functional metrics. However, at the level of individual communities there is profound reorginization leading to changes in functional evenness and losses and gains in functional redundancy with potentially profound implications for those communities' ability to respond to future stressors {% cite norman2025no %}.
+
+This work built on previous explorations of the relationship between community change (i.e. turnover) and the maintenance of community stability. We found that temporal fluctuations in species abundance and turnover of functionally similar species help stabilize communities {% cite jarzyna2022community %}. 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/jarzynafig.jpg" title="Jarzyna et. al 2022" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Relationships between community stability and change in community taxonomic composition as given by temporal dissimilarity (a), dissimilarity due to species replacement (b), dissimilarity due to species richness (c), relative contributions of species replacement to dissimilarity (d), and relative contributions of richness change to dissimilarity (e) for four taxonomic groups: small mammals, ground beetles, fish, and freshwater macroinvertebrates. Density plots in (d) and (e) show the frequency of relative contributions of species replacement and richness change, respectively, to dissimilarity in community taxonomic composition. From Jarzyna et al. 2022.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+After spending a lot of time thinking about community structure, the potential to incorporate changes in species interactions through time felt like the natural next step. As part of a <a href="https://bios2.usherbrooke.ca/">BIOS^2^</a> funded working group, we developed an approach for moving from deterministic to probabilistic expressed interaction networks, that take into account ecological and community context when expressing the likelihood of an interaction occurring {% cite banville2024deciphering %}. This is foundational theoretical work for better incorporating interaction data into measures of community change. 

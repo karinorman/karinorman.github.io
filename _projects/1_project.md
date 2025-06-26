@@ -4,7 +4,7 @@ title: Biodiversity Monitoring
 description: Tools for more accessible monitoring program development, implementation, and data use.
 img: assets/img/mso.jpg
 importance: 1
-category: research
+category: research themes
 related_publications: true
 bibliography: references.bib
 ---

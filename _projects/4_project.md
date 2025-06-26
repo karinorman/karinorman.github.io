@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Wildfire & Biogeography
-description: another without an image
+title: Pyrogeography
+description: Wildfire as a biogeographic process shaping patterns of biodiversity.
 img: assets/img/fire_richness.png
 importance: 3
-category: research
+category: research themes
 ---
 
 Every project has a beautiful feature showcase page.
