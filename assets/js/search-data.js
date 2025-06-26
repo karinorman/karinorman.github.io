@@ -67,9 +67,9 @@ ninja.data = [{
           description: "Wildfire as a biogeographic process shaping patterns of biodiversity.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-wildfire-amp-biogeography",
-          title: 'Wildfire &amp;amp; Biogeography',
-          description: "another without an image",
+            },},{id: "projects-pyrogeography",
+          title: 'Pyrogeography',
+          description: "Wildfire as a biogeographic process shaping patterns of biodiversity.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-taxadb",
