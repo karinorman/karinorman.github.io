@@ -4,7 +4,7 @@ title: Pyrogeography
 description: Wildfire as a biogeographic process shaping patterns of biodiversity.
 img: assets/img/fire_richness.png
 importance: 3
-category: research themes
+category: unlisted
 ---
 
 Every project has a beautiful feature showcase page.
