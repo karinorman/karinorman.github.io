@@ -40,8 +40,8 @@ ninja.data = [{
           description: "Measuring change in ecological community structure through time.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-pyrogeography",
-          title: 'Pyrogeography',
+            },},{id: "projects-wildfire-impacts-on-biodiversity",
+          title: 'Wildfire Impacts on Biodiversity',
           description: "Wildfire as a biogeographic process shaping patterns of biodiversity.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
